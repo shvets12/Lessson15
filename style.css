@@ -1,0 +1,78 @@
+body{ 
+    margin: 0;
+    padding: 0;
+    font-family:cursive;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(37, 37, 39);
+    height: 10vh;
+    width: 99vw;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 0.5vw;
+    padding-left: 0.5vw;
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5em;
+    margin: 0.75vw;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    margin: 2vh 1vw;
+}
+article{
+    justify-content: center;
+    align-items: center;
+    margin: 0.5vw 0.5vh;
+    padding: 0.5vw 0.5vh;
+    width: 50%;
+}
+aside{
+    text-align: center;
+    color: white;
+    background-color: rgb(37, 37, 39); 
+    height: 60vh;
+    width: 50%;
+}
+.card1{
+    border: 2px solid gold;
+    margin: 0.5vw 0.5vh;
+    padding: 0.5vw 0.5vh;
+    text-align: center;
+}
+.card2{
+    border: 2px solid gold;
+    margin: 0.5vw 0.5vh;
+    padding: 0.5vw 0.5vh;
+    text-align: center;
+}
+.card3{
+    border: 2px solid gold;
+    margin: 0.5vw 0.5vh;
+    padding: 0.5vw 0.5vh;
+    text-align: center;
+}
+.card4{
+    border: 2px solid gold;
+    margin: 0.5vw 0.5vh;
+    padding: 0.5vw 0.5vh;
+    text-align: center;
+}
+.card5{
+    border: 2px solid gold;
+    margin: 0.5vw 0.5vh;
+    padding: 0.5vw 0.5vh;
+    text-align: center;
+}
